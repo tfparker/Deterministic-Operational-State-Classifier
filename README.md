@@ -239,7 +239,7 @@ It is intended as a work sample illustrating how systems can support decision-ma
 
 ## Example Output
 
-Deterministic Operational State Classifier.png
+![Deterministic Operational State Classifier](Deterministic%20Operational%20State%20Classifier.png)
 
 ## Status
 
